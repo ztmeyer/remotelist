@@ -79,6 +79,7 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Git Lab](https://about.gitlab.com/jobs/) | A git repository tool. |🌟|
 | ❇️ | [X Team](https://x-team.com/) | Agency. |💻| 
 | ❇️ | [Toptal](https://www.toptal.com/) | Agency. |🌟|
+| ❇️ | [Tipe](https://tipe.io/) | CMS Startup |🌟|
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) | Agency. |💻|
 | ❇️ | [10UP](https://10up.com/careers/) | Agency |💻| 
 | ❇️ | [Auth0](https://auth0.com/careers/) | Authentication as a Service. |💻| 
