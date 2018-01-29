@@ -36,7 +36,7 @@ A list of remote job boards.
 | ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Take's some fishing. Tech remote jobs | | |💻|
 | ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | Tech remote jobs. | | |💻|
 | ❇️ | [Ethereum Jobs](http://jobs.ethercasts.com/) | Ethereum remote jobs. |[JSON](http://jobs.ethercasts.com/api/jobs) ||💻|
-| ❇️ | [We Work Meteor](https://www.weworkmeteor.com/) |Meteor remote jobs. |[JSON](https://www.weworkmeteor.com/api/jobs)|💻|
+| ❇️ | [We Work Meteor](https://www.weworkmeteor.com/) |Meteor remote jobs. |[JSON](https://www.weworkmeteor.com/api/jobs)| |💻|
 | ❇️ | [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) | Remote cryptocurrency jobs. | | |💻|
 | ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. | | |🌟|
 | ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. | | |🌟|
