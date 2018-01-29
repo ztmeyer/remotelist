@@ -29,8 +29,8 @@ Many sites aggregate job listing from a variety of sources, it can 'sometimes' b
 
 A list of remote job boards.
 
-|| Site |   Details | * | API |                                                                                                       
--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
+|| Site |   Details | Alexa Rank | * |                                                                                                        
+-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|--|
 | ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs. |💻|
 | ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | A tech remote jobs board.  |💻|[JSON](https://jobs.github.com/api)
 | ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Take's some fishing. Tech remote jobs |💻|
@@ -67,8 +67,8 @@ A list of remote job boards.
 
 Companies that sometimes advertise remote roles.
 
-|| Site |   Details | * |                                                                                                         
--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|
+|| Site |   Details | Alexa Rank | * |                                                                                                          
+-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
 | ❇️ | [Buffer](http://journey.buffer.com/) | An awesome Twitter client. |🌟|
 | ❇️ | [Customer.io](https://customer.io) | An awesome email platform. |🌟|
 | ❇️ | [Zapier](https://zapier.com/about/) | Manage workflows. |🌟|
@@ -88,16 +88,16 @@ Companies that sometimes advertise remote roles.
 ### 👩‍🏫 Teaching
 Remote teaching companies.
 
-|| Site |   Details | * |                                                                                                         
--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|
+|| Site |   Details | Alexa Rank | * |                                                                                                          
+-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
 | ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. |👩‍🏫|
 | ❇️ | [VIPKid](https://t.vipkid.com.cn/) | English Teaching Community. |👩‍🏫|        
 
 ### 🔨 Freelancing
 Prefer to work for yourself? Here's a list of freelancing websites.
 
-|| Site |   Details | * |                                                                                                         
--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|
+|| Site |   Details | Alexa Rank | * |                                                                                                          
+-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
 | ❇️ | [Fiverr](https://www.fiverr.com/) | Freelance gigs in all sectors. |🌟|
 | ❇️ | [Freelancer](https://www.freelancer.com/) | Freelance jobs in all sectors. |🌟|
 | ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | Freelance gigs in all sectors. |🌟 |
