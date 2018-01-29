@@ -32,7 +32,7 @@ A list of remote job boards.
 || Site |   Details | API | Alexa Rank | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|--|
 | ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs. | | |💻|
-| ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | A tech remote jobs board.  ||[JSON] |💻|(https://jobs.github.com/api)
+| ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | A tech remote jobs board.  ||[JSON](https://jobs.github.com/api) |💻|
 | ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Take's some fishing. Tech remote jobs | | |💻|
 | ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | Tech remote jobs. | | |💻|
 | ❇️ | [Ethereum Jobs](http://jobs.ethercasts.com/) | Ethereum remote jobs. | | [JSON](http://jobs.ethercasts.com/api/jobs) ||💻|
