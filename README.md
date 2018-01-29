@@ -29,7 +29,7 @@ Many sites aggregate job listing from a variety of sources, it can 'sometimes' b
 
 A list of remote job boards.
 
-|| Site |   Details | Alexa Rank | * |                                                                                                        
+|| Site |   Details | API | Alexa Rank | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|--|
 | ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs. |💻|
 | ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | A tech remote jobs board.  |💻|[JSON](https://jobs.github.com/api)
