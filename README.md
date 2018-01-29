@@ -70,6 +70,7 @@ Companies that sometimes advertise remote roles.
 || Site |   Details | * |                                                                                                         
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|
 | ❇️ | [Buffer](http://journey.buffer.com/) | An awesome Twitter client. |🌟|
+| ❇️ | [Customer.io](https://customer.io) | An awesome email platform. |🌟|
 | ❇️ | [Zapier](https://zapier.com/about/) | Manage workflows. |🌟|
 | ❇️ | [Automattic](https://automattic.com/work-with-us/) | The WordPress guys & gals |🌟|
 | ❇️ | [Sketch](https://www.sketchapp.com/jobs/) | An awesome design tool. |🌟|
