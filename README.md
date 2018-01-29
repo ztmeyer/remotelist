@@ -84,6 +84,7 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) | Agency. | |💻|
 | ❇️ | [10UP](https://10up.com/careers/) | Agency | |💻| 
 | ❇️ | [Auth0](https://auth0.com/careers/) | Authentication as a Service. | |💻| 
+| ❇️ | [wemake.services](wemake.services/meta/job-application) | Agency. | |💻| 
 
 ### 👩‍🏫 Teaching
 Remote teaching companies.
