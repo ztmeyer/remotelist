@@ -111,8 +111,8 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ❇️ | [Codeable](https://codeable.io/) | Freelance Wordpress developers. | 115,000 |💻|
 | ❇️ | [Cloud Peeps](https://www.cloudpeeps.com) | Freelance gigs in all sectors. | 240,000 |🌟|
 | ❇️ | [GunIO](https://www.gun.io/#hacker) | Freelance developers. | 400,000 |💻|
-| ❇️ | [Speedlancer](https://speedlancer.com/) | Designers & Developers. | 600,000 |💻|
-| ❇️ | [Loom](https://www.loom.co/) | Designers & Developers. | 10,000,000 |💻|
+| ❇️ | [Speedlancer](https://speedlancer.com/) | Designers & Developers. | 600,000 |🌟|
+| ❇️ | [Loom](https://www.loom.co/) | Designers & Developers. | 10,000,000 |🌟|
 
 ---
 👨‍💻 Follow me on [Twitter](https://twitter.com/ajukco).
