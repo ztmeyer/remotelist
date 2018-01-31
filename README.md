@@ -91,8 +91,10 @@ Remote teaching companies.
 
 || Site |   Details | Alexa Rank | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
-| ❇️ | [VIPKid](https://t.vipkid.com.cn/) | English Teaching Community. | 10,000 |👩‍🏫| 
-| ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. | 70,000 |👩‍🏫|       
+| ❇️ | [italki](https://www.italki.com/home) | Teach a language. | 6000 |👩‍🏫|
+| ❇️ | [VIPKid](https://t.vipkid.com.cn/) | Teach English. | 10,000 |👩‍🏫|
+| ❇️ | [Preply](https://preply.com/) | Teach languages, programming, etc  | 30,000 |👩‍🏫| 
+| ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. | 70,000 |👩‍🏫|  
 
 ### 🔨 Freelancing
 Prefer to work for yourself? Here's a list of freelancing websites.
