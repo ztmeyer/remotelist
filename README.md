@@ -31,7 +31,7 @@ A list of remote job boards.
 
 || Site |   Details | API | Alexa Rank | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|--|
-| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs. | | |💻|
+| ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs. | | 70 |💻|
 | ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | A tech remote jobs board.  | [JSON](https://jobs.github.com/api) | |💻|
 | ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Take's some fishing. Tech remote jobs | | |💻|
 | ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | Tech remote jobs. | | |💻|
@@ -91,7 +91,7 @@ Remote teaching companies.
 
 || Site |   Details | Alexa Rank | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
-| ❇️ | [VIPKid](https://t.vipkid.com.cn/) | English Teaching Community. | 7,000 |👩‍🏫| 
+| ❇️ | [VIPKid](https://t.vipkid.com.cn/) | English Teaching Community. | 10,000 |👩‍🏫| 
 | ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. | 70,000 |👩‍🏫|       
 
 ### 🔨 Freelancing
@@ -101,13 +101,13 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
 | ❇️ | [Fiverr](https://www.fiverr.com/) | Freelance gigs in all sectors. | 400 |🌟|
 | ❇️ | [Upwork](https://www.upwork.com/) | Freelance jobs in all sectors. | 500 |🌟|
-| ❇️ | [Freelancer](https://www.freelancer.com/) | Freelance jobs in all sectors. | 1700 |🌟|
-| ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | Freelance gigs in all sectors. | 6000 |🌟 |
-| ❇️ | [Guru](https://www.guru.com/) | Freelance jobs in all sectors. | 11,000 |🌟|
-| ❇️ | [Code Mentor](https://www.codementor.io/developers) | Freelance developer community. | 13,000 |💻| 
+| ❇️ | [Freelancer](https://www.freelancer.com/) | Freelance jobs in all sectors. | 2000 |🌟|
+| ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | Freelance gigs in all sectors. | 10,000 |🌟 |
+| ❇️ | [Guru](https://www.guru.com/) | Freelance jobs in all sectors. | 10,000 |🌟|
+| ❇️ | [Code Mentor](https://www.codementor.io/developers) | Freelance developer community. | 10,000 |💻| 
 | ️️️❇️ | [Workana](https://www.workana.com/) | Freelance jobs in all sectors. Latin America only. | 15,000 |🌟|
-| ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Freelance jobs in all sectors. | 36,000 |🌟|
-| ❇️ | [99Designs](https://99designs.co.uk/) | Freelance design community. | 78,000 |🎨|
+| ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Freelance jobs in all sectors. | 40,000 |🌟|
+| ❇️ | [99Designs](https://99designs.co.uk/) | Freelance design community. | 80,000 |🎨|
 | ❇️ | [Codeable](https://codeable.io/) | Freelance Wordpress developers. | 115,000 |💻|
 | ❇️ | [Cloud Peeps](https://www.cloudpeeps.com) | Freelance gigs in all sectors. | 240,000 |🌟|
 | ❇️ | [GunIO](https://www.gun.io/#hacker) | Freelance developers. | 400,000 |💻|
