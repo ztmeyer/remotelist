@@ -37,10 +37,10 @@ A list of remote job boards.
 | ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | A designers remote jobs board.| | 1000 |🎨|
 | ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | Tech remote jobs. | |2000|💻|
 | ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. | | 2400 |🌟|
-| ❇️ | [Product Hunt](https://www.producthunt.com/jobs) | A remote jobs board. (Has a remote filter) | | 3,000 |🌟|
+| ❇️ | [Product Hunt](https://www.producthunt.com/jobs) | A remote jobs board. (Has a remote filter) | | 3000 |🌟|
 | ❇️ | [Flexjobs](https://www.flexjobs.com) | A remote jobs board. | | 20,000 |🌟|
 | ❇️ | [Remote.com](https://remote.com/jobs) | A remote jobs board. | | 30,000 |🌟|
-| ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. | | 43,000 |🌟|
+| ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. | | 40,000 |🌟|
 | ❇️ | [Remote.co](https://remote.co/remote-jobs/) | A remote jobs board. | | 80,000 |🌟|
 | ❇️ | [Outsourcely](https://www.outsourcely.com/remote-workers) | A remote jobs board. | | 100,000 |🌟|
 | ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | A popular remote jobs board. | [JSON](https://authenticjobs.com/api/docs) | 200,000 |🌟|
