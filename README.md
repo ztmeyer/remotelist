@@ -36,7 +36,7 @@ A list of remote job boards.
 | ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Take's some fishing. Tech remote jobs | |200|💻|
 | ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | A designers remote jobs board.| | 1000 |🎨|
 | ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | Tech remote jobs. | |2000|💻|
-| ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. | | 2400 |🌟|
+| ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. | | 2000 |🌟|
 | ❇️ | [Product Hunt](https://www.producthunt.com/jobs) | A remote jobs board. (Has a remote filter) | | 3000 |🌟|
 | ❇️ | [Flexjobs](https://www.flexjobs.com) | A remote jobs board. | | 20,000 |🌟|
 | ❇️ | [Remote.com](https://remote.com/jobs) | A remote jobs board. | | 30,000 |🌟|
