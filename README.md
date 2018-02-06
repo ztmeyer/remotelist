@@ -9,7 +9,7 @@ A curated list of companies or job boards advertising Remote Jobs.
 | Teaching |👩‍🏫|
 | Support |📱|
 
-### Think there's someone missing or an incorret detail? Make a [pull request](https://github.com/ajukco/remoteList/pulls) or [tweet me](https://twitter.com/ajukco).
+### Think there's someone missing or an incorret detail? Make a [pull request](https://github.com/ajukco/remotelist/pulls) or [tweet me](https://twitter.com/ajukco).
 
 ### 🔥  Job board aggregators
 
