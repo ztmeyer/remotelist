@@ -1,4 +1,4 @@
-# Remote Jobs List
+# Remote List
 A curated list of companies or job boards advertising Remote Jobs.
 
 | Categories | * |
@@ -9,7 +9,7 @@ A curated list of companies or job boards advertising Remote Jobs.
 | Teaching |👩‍🏫|
 | Support |📱|
 
-### Think there's someone missing or an incorret detail? Make a [pull request](https://github.com/ajukco/remote-jobs-list/pulls) or [tweet me](https://twitter.com/ajukco).
+### Think there's someone missing or an incorret detail? Make a [pull request](https://github.com/ajukco/remoteList/pulls) or [tweet me](https://twitter.com/ajukco).
 
 ### 🔥  Job board aggregators
 
