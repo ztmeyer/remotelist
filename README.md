@@ -9,7 +9,7 @@ A curated list of companies or job boards advertising Remote Jobs.
 | Teaching |👩‍🏫|
 | Support |📱|
 
-### Think there's someone missing or an incorret detail? Make a [pull request](https://github.com/ajukco/remotelist/pulls) or [tweet me](https://twitter.com/ajukco).
+### Think there's someone missing or an incorret detail? Make a [pull request](https://github.com/raynesio/remotelist/pulls) or [tweet me](https://twitter.com/raynesio).
 
 ### 🔥  Job board aggregators
 
@@ -116,5 +116,5 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ❇️ | [Loom](https://www.loom.co/) | Designers & Developers. | 10,000,000 |🌟|
 
 ---
-👨‍💻 Follow me on [Twitter](https://twitter.com/ajukco).
+👨‍💻 Follow me on [Twitter](https://twitter.com/raynesio).
 
