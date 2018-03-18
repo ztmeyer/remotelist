@@ -17,11 +17,11 @@ Many sites aggregate job listing from a variety of sources, it can 'sometimes' b
 
 || Site |   Details | API | Alexa Rank | * |                                                                                                  
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|--|
-| ❇️ | [RemoteOK](https://remoteok.io/) | Jobs board aggregator. | [JSON](https://remoteok.io/remote-jobs.json)| 60,000 |🌟|
+| ❇️ | [RemoteOK](https://remoteok.io/) | Jobs board aggregator. | [JSON](https://remoteok.io/remote-jobs.json)| 50,000 |🌟|
 | ❇️ | [Who Is Hiring](https://whoishiring.io) | Jobs board aggregator. | | 300,000 |🌟|
 | ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | Jobs board aggregator. | | 400,000 |🌟|
-| ❇️ | [GoRemote](https://goremote.io/) | Jobs board aggregator. | | 1,000,000 |🌟|
-| ❇️ | [Workaline](https://workaline.com/) | Jobs board aggregator. | | 2,000,000 |🌟|
+| ❇️ | [Workaline](https://workaline.com/) | Jobs board aggregator. | | 1,000,000 |🌟|
+| ❇️ | [GoRemote](https://goremote.io/) | Jobs board aggregator. | | 2,000,000 |🌟|
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | Jobs board aggregator. | | 19,000,000 |🌟|
 | ❇️ | [Remote Zoo](https://www.remotezoo.com/) | Jobs board aggregator. | | No rating | 🌟|
 
