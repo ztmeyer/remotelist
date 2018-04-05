@@ -84,7 +84,7 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) | Agency. | 500,000 |💻|
 | ❇️ | [10UP](https://10up.com/careers/) | Agency | 500,000 |💻| 
 | ❇️ | [wemake.services](wemake.services/meta/job-application) | Agency. | 6,000,000 |💻|
-| ❇️ | [Spies.ws](http://spies.ws/) | Agency. | - |💻|
+| ❇️ | [Spies.ws](http://spies.ws/) | Agency. | No rating |💻|
 
 ### 👩‍🏫 Teaching
 Remote teaching companies.
