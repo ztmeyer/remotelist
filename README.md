@@ -80,10 +80,11 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Customer.io](https://customer.io) | An awesome email platform. | 60,000 |🌟|
 | ❇️ | [Scraping Hub](https://scrapinghub.com/jobs) | A scraper tool. | 100,000 |🌟|
 | ❇️ | [X Team](https://x-team.com/) | Agency. | 200,000 |💻| 
-| ❇️ | [Tipe](https://tipe.io/) | CMS Startup. (Email for roles, page coming soon). | 300,000 |🌟|
+| ❇️ | [CleverTech](https://www.clevertech.biz/) | Tech Soultions. | 300,000 |🌟|
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) | Agency. | 500,000 |💻|
 | ❇️ | [10UP](https://10up.com/careers/) | Agency | 500,000 |💻| 
-| ❇️ | [wemake.services](wemake.services/meta/job-application) | Agency. | 6,000,000 |💻| 
+| ❇️ | [wemake.services](wemake.services/meta/job-application) | Agency. | 6,000,000 |💻|
+| ❇️ | [Spies.ws](http://spies.ws/) | Agency. | - |💻|
 
 ### 👩‍🏫 Teaching
 Remote teaching companies.
