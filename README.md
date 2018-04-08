@@ -9,7 +9,7 @@ A curated list of companies or job boards advertising Remote Jobs.
 | Teaching |👩‍🏫|
 | Support |📱|
 
-### Think there's someone missing or an incorret detail? Make a [pull request](https://github.com/raynesio/remotelist/pulls) or [tweet me](https://twitter.com/raynesio).
+### Think there's someone missing or an incorret detail? Make a [pull request](https://github.com/raynesio/remotelist/pulls)
 
 ### 🔥  Job board aggregators
 
@@ -116,7 +116,3 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ❇️ | [Speedlancer](https://speedlancer.com/) | Designers & Developers. | 600,000 |🌟|
 | ❇️ | [Moonlight](https://www.moonlightwork.com/) | Designers & Developers. | 1,500,000 |🌟|
 | ❇️ | [Loom](https://www.loom.co/) | Designers & Developers. | 10,000,000 |🌟|
-
----
-👨‍💻 Follow me on [Twitter](https://twitter.com/raynesio).
-
