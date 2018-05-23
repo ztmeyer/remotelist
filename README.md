@@ -110,6 +110,7 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | Freelance gigs in all sectors. | 10,000 |🌟 |
 | ❇️ | [Guru](https://www.guru.com/) | Freelance jobs in all sectors. | 10,000 |🌟|
 | ❇️ | [Code Mentor](https://www.codementor.io/developers) | Freelance developer community. | 10,000 |💻| 
+| ❇️ | [UserTesting](https://www.usertesting.com/) | Testing. | 15,000 |💻|
 | ️️️❇️ | [Workana](https://www.workana.com/) | Freelance jobs in all sectors. Latin America only. | 15,000 |🌟|
 | ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Freelance jobs in all sectors. | 40,000 |🌟|
 | ❇️ | [99Designs](https://99designs.co.uk/) | Freelance design community. | 80,000 |🎨|
