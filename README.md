@@ -36,6 +36,7 @@ Many sites aggregate job listing from a variety of sources, it can 'sometimes' b
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | Jobs board aggregator. | | 19,000,000 |🌟|
 | ❇️ | [Remote Zoo](https://www.remotezoo.com/) | Jobs board aggregator. | | No rating | 🌟|
 
+&nbsp;
 ### 📌 Job boards
 
 A list of remote job boards.
@@ -74,6 +75,7 @@ A list of remote job boards.
 | ❇️ | [Remoteur](http://www.remoteur.com/) | A remote jobs board. | | 10,000,000 |🌟|
 | ❇️ | [Supporting Roles](https://supportingroles.io/) | Support remote jobs board. | | 10,000,000 |📱|
 
+&nbsp;
 ### ✈️ Remote Companies
 
 Companies that sometimes advertise remote roles.
@@ -99,6 +101,7 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Spies.ws](http://spies.ws/) | Agency. | No rating |💻|
 | ❇️ | [CrossOver](https://www.crossover.com/#index) | Agency. | No rating |💻|
 
+&nbsp;
 ### 👩‍🏫 Teaching
 Remote teaching companies.
 
@@ -109,6 +112,7 @@ Remote teaching companies.
 | ❇️ | [Preply](https://preply.com/) | Teach languages, programming, etc  | 30,000 |👩‍🏫| 
 | ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. | 70,000 |👩‍🏫|  
 
+&nbsp;
 ### 🔨 Freelancing
 Prefer to work for yourself? Here's a list of freelancing websites.
 
