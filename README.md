@@ -10,11 +10,15 @@ A curated list of companies or job boards advertising Remote Jobs.
 | Support |📱|
 
 
+&nbsp;
+&nbsp;
 
 ---
 ### Think there's someone missing or an incorret detail? Make a [pull request](https://github.com/raynesio/remotelist/pulls)
 ---
 
+&nbsp;
+&nbsp;
 
 
 ### 🔥  Job board aggregators
