@@ -30,12 +30,12 @@ Many sites aggregate job listing from a variety of sources, it can 'sometimes' b
 | ❇️ | [RemoteOK](https://remoteok.io/) | Jobs board aggregator. | [JSON](https://remoteok.io/remote-jobs.json)| 50,000 |🌟|
 | ❇️ | [Who Is Hiring](https://whoishiring.io) | Jobs board aggregator. | | 300,000 |🌟|
 | ❇️ | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) | Jobs board aggregator. | | 400,000 |🌟|
+| ❇️ | [Crypto Jobs List](https://cryptojobslist.com/remote/blockchain-jobs) | Jobs board aggregator. | [RSS](https://cryptojobslist.com/jobs.rss) | 400,000 | 🌟|
 | ❇️ | [Ditch The Office](https://ditchtheoffice.co) | Jobs board aggregator. | | 700,000 | 🌟|
 | ❇️ | [Workaline](https://workaline.com/) | Jobs board aggregator. | | 1,000,000 |🌟|
 | ❇️ | [GoRemote](https://goremote.io/) | Jobs board aggregator. | | 2,000,000 |🌟|
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | Jobs board aggregator. | | 19,000,000 |🌟|
 | ❇️ | [Remote Zoo](https://www.remotezoo.com/) | Jobs board aggregator. | | No rating | 🌟|
-| ❇️ | [Crypto Jobs List](https://cryptojobslist.com/remote/blockchain-jobs) | Jobs board aggregator. | [RSS](https://cryptojobslist.com/jobs.rss) | 400,000 | 🌟|
 
 &nbsp;
 
