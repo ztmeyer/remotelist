@@ -91,8 +91,9 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Zapier](https://zapier.com/about/) | Manage workflows. | 3000 |🌟|
 | ❇️ | [Toptal](https://www.toptal.com/) | Agency. | 9000 |🌟|
 | ❇️ | [Sketch](https://www.sketchapp.com/jobs/) | An awesome design tool. | 20,000 |🌟|
-| ❇️ | [Hubstaff](https://hubstaff.com/jobs) | A SASS company. | 20,000 |🌟|
+| ❇️ | [Hubstaff](https://hubstaff.com/jobs) | A SaaS company. | 20,000 |🌟|
 | ❇️ | [Articulate](https://articulate.com/company/careers/) | Course Creation tool | 20,000 |🌟|
+| ❇️ | [Close.io](http://jobs.close.io) | A SaaS company. | 30,000 |🌟|
 | ❇️ | [Automattic](https://automattic.com/work-with-us/) | The WordPress guys & gals | 50,000 |🌟|
 | ❇️ | [Customer.io](https://customer.io) | An awesome email platform. | 60,000 |🌟|
 | ❇️ | [Scraping Hub](https://scrapinghub.com/jobs) | A scraper tool. | 100,000 |🌟|
