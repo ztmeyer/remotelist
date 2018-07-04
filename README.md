@@ -68,6 +68,7 @@ A list of remote job boards.
 | ❇️ | [Remote Work Hub](https://remoteworkhub.com/remote-jobs/) | A remote jobs board. | | 500,000 |🌟|
 | ❇️ | [No Desk](https://nodesk.co/remote-jobs/) | A remote jobs board. | | 800,000 |🌟|
 | ❇️ | [Europe Remotely](https://europeremotely.com/) | A remote jobs board. | | 1,000,000 |🌟|
+| ❇️ | [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) |Go/Golang remote jobs. |  |1,000,000 |💻|
 | ❇️ | [RemoteBase](https://remotebase.io/) | A remote jobs board. | | 1,000,000 |🌟|
 | ❇️ | [Telecommunity](http://remotejobs.telecommunity.net/) | A remote jobs board. | | 1,000,000  |🌟|
 | ❇️ | [We Work Meteor](https://www.weworkmeteor.com/) |Meteor remote jobs. |[JSON](https://www.weworkmeteor.com/api/jobs)|1,000,000 |💻|
@@ -77,6 +78,7 @@ A list of remote job boards.
 | ❇️ | [Remoteur](http://www.remoteur.com/) | A remote jobs board. | | 10,000,000 |🌟|
 | ❇️ | [Supporting Roles](https://supportingroles.io/) | Support remote jobs board. | | 10,000,000 |📱|
 | ❇️ | [JustRemote](https://justremote.co) | A remote jobs board. | | 10,000,000 |🌟|
+| ❇️ | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) |AI/Machine learning remote jobs. |  | No rating |💻|
 
 &nbsp;
 
