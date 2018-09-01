@@ -35,7 +35,6 @@ Many sites aggregate job listing from a variety of sources, it can 'sometimes' b
 | ❇️ | [Workaline](https://workaline.com/) | Jobs board aggregator. | | 1,000,000 |🌟|
 | ❇️ | [GoRemote](https://goremote.io/) | Jobs board aggregator. | | 2,000,000 |🌟|
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | Jobs board aggregator. | | 19,000,000 |🌟|
-| ❇️ | [Remote Zoo](https://www.remotezoo.com/) | Jobs board aggregator. | | No rating | 🌟|
 
 &nbsp;
 
