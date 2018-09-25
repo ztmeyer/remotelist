@@ -85,6 +85,16 @@ A list of remote job boards.
 
 &nbsp;
 
+### 🐞 Testing
+Remote teaching companies.
+
+|| Site |   Details | Alexa Rank | * |                                                                                                          
+-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
+| ❇️ | [PingPong](https://hellopingpong.com/become-a-tester/?r=ZBmz) | Effortless user research for websites/apps. | - |💻|
+| ❇️ | [UserTesting](https://www.usertesting.com/) | Website testing. | 15,000 |💻|
+
+&nbsp;
+
 ### ✈️ Remote Companies
 
 Companies that sometimes advertise remote roles.
@@ -123,16 +133,6 @@ Remote teaching companies.
 | ❇️ | [VIPKid](https://t.vipkid.com.cn/) | Teach English. | 10,000 |👩‍🏫|
 | ❇️ | [Preply](https://preply.com/) | Teach languages, programming, etc  | 30,000 |👩‍🏫| 
 | ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. | 70,000 |👩‍🏫|  
-
-&nbsp;
-
-### 🐞 Testing
-Remote teaching companies.
-
-|| Site |   Details | Alexa Rank | * |                                                                                                          
--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
-| ❇️ | [PingPong](https://hellopingpong.com/become-a-tester/?r=ZBmz) | Effortless user research for websites/apps. | - |💻|
-
 
 &nbsp;
 
