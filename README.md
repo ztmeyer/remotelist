@@ -126,6 +126,16 @@ Remote teaching companies.
 
 &nbsp;
 
+### 🐞 Testing
+Remote teaching companies.
+
+|| Site |   Details | Alexa Rank | * |                                                                                                          
+-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
+| ❇️ | [PingPong](https://hellopingpong.com/become-a-tester/?r=ZBmz) | Effortless user research for websites/apps. | - |💻|
+
+
+&nbsp;
+
 ### 🔨 Freelancing
 Prefer to work for yourself? Here's a list of freelancing websites.
 
