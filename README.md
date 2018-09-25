@@ -36,6 +36,8 @@ Many sites aggregate job listing from a variety of sources, it can 'sometimes' b
 | ❇️ | [GoRemote](https://goremote.io/) | Jobs board aggregator. | | 2,000,000 |🌟|
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | Jobs board aggregator. | | 19,000,000 |🌟|
 | ❇️ | [Remote4me](https://remote4me.com/) | An aggregator for remote jobs in tech and non-tech. | | - |💻🌟|
+| ❇️ | [Startup Jobs](https://startup.jobs/) | Jobs board aggregator. | | - |🌟|
+
 
 &nbsp;
 
@@ -77,7 +79,6 @@ A list of remote job boards.
 | ❇️ | [Remote.jobs](https://remote.jobs/) | A remote jobs board. | | 4,000,000 |🌟|
 | ❇️ | [Nodeskproject.com](https://www.nodeskproject.com/jobs/) | A remote jobs board. |  | 4,500,000 |🌟|
 | ❇️ | [Remoteur](http://www.remoteur.com/) | A remote jobs board. | | 10,000,000 |🌟|
-| ❇️ | [Supporting Roles](https://supportingroles.io/) | Support remote jobs board. | | 10,000,000 |📱|
 | ❇️ | [JustRemote](https://justremote.co) | A remote jobs board. | | 10,000,000 |🌟|
 | ❇️ | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) |AI/Machine learning remote jobs. |  | No rating |💻|
 
