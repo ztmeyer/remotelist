@@ -76,7 +76,6 @@ A list of remote job boards.
 | ❇️ | [Remote.jobs](https://remote.jobs/) | A remote jobs board. | | 4,000,000 |🌟|
 | ❇️ | [Nodeskproject.com](https://www.nodeskproject.com/jobs/) | A remote jobs board. |  | 4,500,000 |🌟|
 | ❇️ | [Remoteur](http://www.remoteur.com/) | A remote jobs board. | | 10,000,000 |🌟|
-| ❇️ | [Supporting Roles](https://supportingroles.io/) | Support remote jobs board. | | 10,000,000 |📱|
 | ❇️ | [JustRemote](https://justremote.co) | A remote jobs board. | | 10,000,000 |🌟|
 | ❇️ | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) |AI/Machine learning remote jobs. |  | No rating |💻|
 
