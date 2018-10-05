@@ -115,6 +115,7 @@ Companies that sometimes advertise remote roles.
 
 || Site |   Details | Alexa Rank | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
+| ❇️ | [DigitalOcean](https://www.digitalocean.com/careers/) | Build the cloud | 1300 |🌟|
 | ❇️ | [Buffer](http://journey.buffer.com/) | An awesome Twitter client. | 2000 |🌟|
 | ❇️ | [Invision App](https://www.invisionapp.com/company) | A design tool. | 2000 |🌟|
 | ❇️ | [Git Lab](https://about.gitlab.com/jobs/) | A git repository tool. | 3000 |🌟|
