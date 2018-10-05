@@ -115,21 +115,26 @@ Companies that sometimes advertise remote roles.
 
 || Site |   Details | Alexa Rank | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
+
 | ❇️ | [DigitalOcean](https://www.digitalocean.com/careers/) | Build the cloud | 1300 |🌟|
 | ❇️ | [Buffer](http://journey.buffer.com/) | An awesome Twitter client. | 2000 |🌟|
 | ❇️ | [Invision App](https://www.invisionapp.com/company) | A design tool. | 2000 |🌟|
 | ❇️ | [Git Lab](https://about.gitlab.com/jobs/) | A git repository tool. | 3000 |🌟|
 | ❇️ | [Zapier](https://zapier.com/about/) | Manage workflows. | 3000 |🌟|
 | ❇️ | [Toptal](https://www.toptal.com/) | Agency. | 9000 |🌟|
+| ❇️ | [HelpScout](https://www.helpscout.net/) | Help desk software company. | 11,000 |🌟|
 | ❇️ | [Sketch](https://www.sketchapp.com/jobs/) | An awesome design tool. | 20,000 |🌟|
 | ❇️ | [Hubstaff](https://hubstaff.com/jobs) | A SaaS company. | 20,000 |🌟|
 | ❇️ | [Articulate](https://articulate.com/company/careers/) | Course Creation tool | 20,000 |🌟|
 | ❇️ | [Close.io](http://jobs.close.io) | A SaaS company. | 30,000 |🌟|
+| ❇️ | [Olark](https://www.olark.com/) | A fully distributed live chat software company. | 34,000 |🌟|
 | ❇️ | [Automattic](https://automattic.com/work-with-us/) | The WordPress guys & gals | 50,000 |🌟|
 | ❇️ | [Customer.io](https://customer.io) | An awesome email platform. | 60,000 |🌟|
+| ❇️ | [MeetEdgar](https://meetedgar.com/) | A social media scheduling platform. | 70,000 |🌟|
 | ❇️ | [Scraping Hub](https://scrapinghub.com/jobs) | A scraper tool. | 100,000 |🌟|
 | ❇️ | [X Team](https://x-team.com/) | Agency. | 200,000 |💻| 
-| ❇️ | [Judge.me](https://judge.me/) | A review platform. | 220,000 |🌟| 
+| ❇️ | [Judge.me](https://judge.me/) | A review platform. | 220,000 |🌟|
+| ❇️ | [Arkency](https://arkency.com/) | A consulting agency that builds business software, trains programmers, and produces books and webinars. | 270,000 |🌟|
 | ❇️ | [CleverTech](https://www.clevertech.biz/) | Tech Soultions. | 300,000 |🌟|
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) | Agency. | 500,000 |💻|
 | ❇️ | [10UP](https://10up.com/careers/) | Agency | 500,000 |💻| 
