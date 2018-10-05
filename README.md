@@ -115,6 +115,10 @@ Companies that sometimes advertise remote roles.
 
 || Site |   Details | Alexa Rank | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
+| ❇️ | [Arkency](https://arkency.com/) | A consulting agency that builds business software, trains programmers, and produces books and webinars. | 277,282 |🌟|
+[MeetEdgar](https://meetedgar.com/) | A social media scheduling platform. | 70,762 |🌟|
+| ❇️ | [Olark](https://www.olark.com/) | A fully distributed live chat software company. | 34,049 |🌟|
+| ❇️ | [HelpScout](https://www.helpscout.net/) | Help desk software company. | 11,391 |🌟|
 | ❇️ | [Buffer](http://journey.buffer.com/) | An awesome Twitter client. | 2000 |🌟|
 | ❇️ | [Invision App](https://www.invisionapp.com/company) | A design tool. | 2000 |🌟|
 | ❇️ | [Git Lab](https://about.gitlab.com/jobs/) | A git repository tool. | 3000 |🌟|
